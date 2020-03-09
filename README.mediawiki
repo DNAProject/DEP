@@ -30,4 +30,11 @@ First review [[DEPS/DEP-1.mediawiki|DEP-1]]. Then clone the repository and add y
 | Accepted
 | -
 |-
+| [[DEPS/DEP-3.mediawiki|3]]
+| Non-Fungible Token Standard
+| tanyuan, conghonglei
+| Standard
+| Accepted
+| -
+|-
 
