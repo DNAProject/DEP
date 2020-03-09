@@ -1,6 +1,6 @@
 ==DNA Enhancement Proposal==
 
-DNA Enhancement Proposals (DEPs) describe standards for the DNT platform, including core protocol specifications, client APIs, and contract standards.
+DNA Enhancement Proposals (DEPs) describe standards for the DNA platform, including core protocol specifications, client APIs, and contract standards.
 
 ==Contributing==
 
