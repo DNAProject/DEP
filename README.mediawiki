@@ -1,0 +1,33 @@
+==DNA Enhancement Proposal==
+
+DNA Enhancement Proposals (DEPs) describe standards for the DNT platform, including core protocol specifications, client APIs, and contract standards.
+
+==Contributing==
+
+First review [[DEPS/DEP-1.mediawiki|DEP-1]]. Then clone the repository and add your DEP to it. There is a [[DEP-X.mediawiki|template DEP here]]. Then submit a [https://github.com/ontio/DEPs/pulls Pull Request] to this repository.
+
+==Table of Contents==
+
+{| class="wikitable sortable" style="width: auto; text-align: center; font-size: smaller; table-layout: fixed;"
+!<nowiki>#</nowiki>
+!Title
+!Author
+!Type
+!Status
+!Ref.
+|-
+| [[DEPS/DEP-1.mediawiki|1]]
+| DEP Purpose and Guidelines
+| DNA Team
+| Meta
+| Active
+| -
+|-
+| [[DEPS/DEP-2.mediawiki|2]]
+| Fungible Token Standard
+| tanyuan, conghonglei
+| Standard
+| Accepted
+| -
+|-
+
